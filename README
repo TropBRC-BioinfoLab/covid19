@@ -1,1 +1,7 @@
-Data analsis of covid19 protein interaction with drug and herbal compound 
+Data analysis of covid19 protein interaction with drug and herbal compound 
+
+data = initial data
+data2 = data for code, first attempt
+data3 = data for code2, model with 'balanced' setting
+data4 = data for code3, positive data oversampled with SMOTE
+data5 = data for code5, dti with spike interaction oversampled with SMOTE
