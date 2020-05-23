@@ -1,0 +1,92 @@
+rf_300n_1000m_hasilsmote_1
+AUC : [0.98120402]
+Accuracy : [0.94059917]
+F-measure : [0.93752184]
+Precision : [0.94500829]
+Recall : [0.93517562]
+rf_300n_1000m_hasilsmote_2
+AUC : [0.98410388]
+Accuracy : [0.94395661]
+F-measure : [0.94088782]
+Precision : [0.95369562]
+Recall : [0.93336777]
+rf_300n_1000m_hasilsmote_3
+AUC : [0.98162226]
+Accuracy : [0.94576446]
+F-measure : [0.94287788]
+Precision : [0.95560493]
+Recall : [0.93465909]
+rf_300n_1000m_hasilsmote_4
+AUC : [0.98167743]
+Accuracy : [0.94266529]
+F-measure : [0.93945147]
+Precision : [0.94971889]
+Recall : [0.93414256]
+rf_300n_1000m_hasilsmote_5
+AUC : [0.98259717]
+Accuracy : [0.9415031]
+F-measure : [0.93854936]
+Precision : [0.9482732]
+Recall : [0.93491736]
+
+rf_300n_2000m_hasilsmote_1
+AUC : [0.98373448]
+Accuracy : [0.94434401]
+F-measure : [0.93953597]
+Precision : [0.95540913]
+Recall : [0.93181818]
+rf_300n_2000m_hasilsmote_2
+AUC : [0.98671772]
+Accuracy : [0.95041322]
+F-measure : [0.94656373]
+Precision : [0.96210169]
+Recall : [0.93801653]
+rf_300n_2000m_hasilsmote_3
+AUC : [0.9837412]
+Accuracy : [0.94847624]
+F-measure : [0.94470895]
+Precision : [0.95851316]
+Recall : [0.93724174]
+rf_300n_2000m_hasilsmote_4
+AUC : [0.98396295]
+Accuracy : [0.94744318]
+F-measure : [0.94299574]
+Precision : [0.95876207]
+Recall : [0.93465909]
+rf_300n_2000m_hasilsmote_5
+AUC : [0.98477419]
+Accuracy : [0.94524793]
+F-measure : [0.94097349]
+Precision : [0.95722798]
+Recall : [0.93336777]
+
+rf_300n_3000m_hasilsmote_1
+AUC : [0.98465249]
+Accuracy : [0.94486054]
+F-measure : [0.9392457]
+Precision : [0.95760218]
+Recall : [0.93052686]
+rf_300n_3000m_hasilsmote_2
+AUC : [0.98783282]
+Accuracy : [0.95015496]
+F-measure : [0.94547549]
+Precision : [0.9651667]
+Recall : [0.93414256]
+rf_300n_3000m_hasilsmote_3
+AUC : [0.98369953]
+Accuracy : [0.94615186]
+F-measure : [0.94145933]
+Precision : [0.95727016]
+Recall : [0.93362603]
+rf_300n_3000m_hasilsmote_4
+AUC : [0.98543815]
+Accuracy : [0.94757231]
+F-measure : [0.94210298]
+Precision : [0.96259086]
+Recall : [0.93130165]
+rf_300n_3000m_hasilsmote_5
+AUC : [0.98479568]
+Accuracy : [0.94356921]
+F-measure : [0.93776124]
+Precision : [0.96070927]
+Recall : [0.92639463]
